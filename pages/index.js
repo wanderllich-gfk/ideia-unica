@@ -1,5 +1,5 @@
 function Home(){
-    return <div>TTe amo xuxu!!!</div>
+    return <div>Te amo xuxu , demais da conta!!!</div>
 
 }
 
